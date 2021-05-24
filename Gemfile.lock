@@ -273,14 +273,12 @@ GEM
     yell (2.2.2)
     zeitwerk (2.4.2)
 
-PLATFORMS
+
   ruby
 
-DEPENDENCIES
   github-pages (>= 207)
   html-proofer (>= 3.11.1)
   jekyll-remote-theme
   rake
 
-BUNDLED WITH
    2.2.9
